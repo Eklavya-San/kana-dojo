@@ -330,7 +330,7 @@
     "english": "The nail that sticks out gets hammered down",
     "meaning": "Those who stand out may be criticized",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 38,
@@ -338,7 +338,7 @@
     "romaji": "Shiranu ga hotoke",
     "english": "Not knowing is Buddha",
     "meaning": "Ignorance is bliss",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -347,7 +347,7 @@
     "romaji": "Ashita wa ashita no kaze ga fuku",
     "english": "Tomorrow's wind will blow tomorrow",
     "meaning": "Don't worry too much about the future",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -357,7 +357,7 @@
     "english": "A strong person under the veranda",
     "meaning": "An unsung hero who supports behind the scenes",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 41,
